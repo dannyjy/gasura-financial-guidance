@@ -13,7 +13,7 @@
     "@ai-sdk/react": "^3.0.283",
     "ai": "^6.0.280",
     "lucide-react": "^1.7.0",
-    "next": "16.3.3",
+    "next": "16.3.8",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "react-markdown": "^10.1.0",
